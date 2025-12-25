@@ -1,0 +1,10 @@
+.MNIST/* 
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+.vscode/
+.env
+.idea/
+*.pyc
+MNIST/
